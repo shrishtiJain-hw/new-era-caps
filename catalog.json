@@ -1,0 +1,24 @@
+{
+  "owner": "Shrishti Jain",
+  "curated_on": "2026-11-01",
+  "cases": [
+    {
+      "path": "issues/japan/shipment-results-recovery.md",
+      "title": "Recovering shipment result processing",
+      "status": "Affected orders reprocessed; recurrence investigation open",
+      "role": "Order recovery, feed regeneration, and payment-record verification"
+    },
+    {
+      "path": "requirements/japan/feed-validation.md",
+      "title": "Order state aware feed validation",
+      "status": "Validation findings and available files shared",
+      "role": "Test order analysis and integration QA support"
+    },
+    {
+      "path": "requirements/japan/order-sync-workflows.md",
+      "title": "Order synchronization and fulfillment workflow knowledge",
+      "status": "Documented learning and QA contribution",
+      "role": "Workflow analysis and knowledge development"
+    }
+  ]
+}
