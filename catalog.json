@@ -6,19 +6,36 @@
       "path": "issues/japan/shipment-results-recovery.md",
       "title": "Recovering shipment result processing",
       "status": "Affected orders reprocessed; recurrence investigation open",
-      "role": "Order recovery, feed regeneration, and payment-record verification"
+      "role": "Order recovery, feed regeneration, and payment-record verification",
+      "market": "japan",
+      "brands": [
+        "NEC"
+      ]
     },
     {
       "path": "requirements/japan/feed-validation.md",
       "title": "Order state aware feed validation",
       "status": "Validation findings and available files shared",
-      "role": "Test order analysis and integration QA support"
+      "role": "Test order analysis and integration QA support",
+      "market": "japan",
+      "brands": [
+        "NEC"
+      ]
     },
     {
       "path": "requirements/japan/order-sync-workflows.md",
       "title": "Order synchronization and fulfillment workflow knowledge",
       "status": "Documented learning and QA contribution",
-      "role": "Workflow analysis and knowledge development"
+      "role": "Workflow analysis and knowledge development",
+      "market": "japan",
+      "brands": [
+        "NEC"
+      ]
     }
-  ]
+  ],
+  "markets": {
+    "japan": [
+      "NEC"
+    ]
+  }
 }

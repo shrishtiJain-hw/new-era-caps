@@ -6,6 +6,8 @@ Japan commerce operations, shipment recovery, and order state aware integration 
 
 By **Shrishti Jain** · Product Associate · Business analysis and commerce operations
 
+**Market:** Japan only
+
 ## Selected work
 
 Start with [shipment result recovery](issues/japan/shipment-results-recovery.md) and [feed validation](requirements/japan/feed-validation.md). These cases show operational recovery and careful interpretation of order eligibility.
@@ -20,8 +22,8 @@ Start with [shipment result recovery](issues/japan/shipment-results-recovery.md)
 
 ## Browse by workstream
 
-- **Requirements:** [USA](requirements/usa/README.md) · [Mexico](requirements/mexico/README.md) · [Canada](requirements/canada/README.md) · [Japan](requirements/japan/README.md)
-- **Issues:** [USA](issues/usa/README.md) · [Mexico](issues/mexico/README.md) · [Canada](issues/canada/README.md) · [Japan](issues/japan/README.md)
+- **Requirements:** [Japan](requirements/japan/README.md)
+- **Issues:** [Japan](issues/japan/README.md)
 
 ## How to read the cases
 

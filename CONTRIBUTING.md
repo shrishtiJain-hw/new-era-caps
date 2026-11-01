@@ -1,6 +1,6 @@
 # Maintaining the portfolio
 
-Add a case when it documents a meaningful requirement, implementation, recovery, or technical investigation. Use requirements/<region>/ for requested capabilities and issues/<region>/ for operational incidents. Use shared/ only when multiple markets are explicitly covered.
+Add a case when it documents a meaningful requirement, implementation, recovery, or technical investigation. This repository covers Japan only. Use requirements/japan/ for capabilities and issues/japan/ for operational incidents.
 
 Describe personal contribution separately from team findings. Keep requirement received, validation shared, accepted, deployed, recovered, and permanently resolved as distinct states. A resend may restore one order while recurring RCA remains open.
 
