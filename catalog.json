@@ -1,13 +1,234 @@
 {
   "owner": "Shrishti Jain",
-  "curated_on": "2026-11-01",
+  "curated_on": "2026-11-02",
   "cases": [
+    {
+      "path": "issues/japan/billing-contact-feed-population.md",
+      "title": "Billing contact information absent from broker output",
+      "status": "Billing fields populated after store-setting change in UAT",
+      "role": "Validation record and investigation synthesis from owner-provided workbook",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/hold-allocation-and-reservation.md",
+      "title": "HOLD review status and inventory reservation behavior",
+      "status": "Successful HOLD examples recorded; specification clarification needed",
+      "role": "Validation record and investigation synthesis from owner-provided workbook",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-10.md",
+      "title": "NEC-10: COD fees absent from the OMS summary total",
+      "status": "To Do",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-11.md",
+      "title": "NEC-11: Updated shipping phone does not reach OMS and broker feed",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-12.md",
+      "title": "NEC-12: Order contact retains an old customer email",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-13.md",
+      "title": "NEC-13: Post-import order discount edits do not synchronize",
+      "status": "To Do",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-14.md",
+      "title": "NEC-14: Partial fulfillment updates fail to synchronize",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-15.md",
+      "title": "NEC-15: Customer reassociation duplicates broker detail rows",
+      "status": "In Progress",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-16.md",
+      "title": "NEC-16: BI/BW feed uses SKU and omits shipping-charge rows",
+      "status": "To Do",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-17.md",
+      "title": "NEC-17: Smaregi inventory reset rejects facility or location identifiers",
+      "status": "In Progress",
+      "role": "Assigned investigation owner",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-2.md",
+      "title": "NEC-2: Draft orders without a shipping address fail import",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-3.md",
+      "title": "NEC-3: Payment authorization status missing after real-time import",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-4.md",
+      "title": "NEC-4: Delivery preferences prevent order import",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-5.md",
+      "title": "NEC-5: Cancellation restores ATP when restocking was disabled",
+      "status": "In Review",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-6.md",
+      "title": "NEC-6: Reshipping selection missed rejected-item parking",
+      "status": "In Review in historical mail",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-7.md",
+      "title": "NEC-7: Partial cancellation creates a duplicate reject record",
+      "status": "In Review in historical mail",
+      "role": "Project issue reference; individual implementation not established",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/nec-8.md",
+      "title": "NEC-8: Empty brokered files generated beside valid output",
+      "status": "To Do",
+      "role": "Investigation contribution recorded in progress summary",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/payment-state-regression.md",
+      "title": "Payment and cancellation retests show mixed outcomes",
+      "status": "Open regression observations in payment retest tab",
+      "role": "Validation record and investigation synthesis from owner-provided workbook",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
+    {
+      "path": "issues/japan/post-import-line-and-customer-updates.md",
+      "title": "Post-import edits reveal incomplete synchronization",
+      "status": "Mixed results recorded; additional defects remain open",
+      "role": "Validation record and investigation synthesis from owner-provided workbook",
+      "market": "japan",
+      "brand_folder": "nec",
+      "brands": [
+        "NEC"
+      ]
+    },
     {
       "path": "issues/japan/shipment-results-recovery.md",
       "title": "Recovering shipment result processing",
       "status": "Affected orders reprocessed; recurrence investigation open",
       "role": "Order recovery, feed regeneration, and payment-record verification",
       "market": "japan",
+      "brands": [
+        "NEC"
+      ],
+      "brand_folder": "nec"
+    },
+    {
+      "path": "issues/japan/unexpected-immediate-allocation.md",
+      "title": "Imported orders bypassed the intended brokering queue",
+      "status": "Recorded Done in workbook issue tracker",
+      "role": "Validation record and investigation synthesis from owner-provided workbook",
+      "market": "japan",
+      "brand_folder": "nec",
       "brands": [
         "NEC"
       ]
@@ -20,7 +241,8 @@
       "market": "japan",
       "brands": [
         "NEC"
-      ]
+      ],
+      "brand_folder": "nec"
     },
     {
       "path": "requirements/japan/order-sync-workflows.md",
@@ -28,6 +250,18 @@
       "status": "Documented learning and QA contribution",
       "role": "Workflow analysis and knowledge development",
       "market": "japan",
+      "brands": [
+        "NEC"
+      ],
+      "brand_folder": "nec"
+    },
+    {
+      "path": "requirements/japan/phase-2-realtime-sync-validation.md",
+      "title": "Phase 2 real-time order synchronization validation",
+      "status": "Source overview reports UAT complete; follow-up scenarios remain",
+      "role": "Portfolio synthesis of owner-provided validation material; source does not establish authorship of every implementation",
+      "market": "japan",
+      "brand_folder": "nec",
       "brands": [
         "NEC"
       ]

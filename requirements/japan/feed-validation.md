@@ -1,6 +1,6 @@
 # Order state aware feed validation
 
-**Status:** Validation findings and available files shared  
+**Status:** Validation findings and available files shared\
 **Contribution:** Test order analysis and integration QA support
 
 ## Business context

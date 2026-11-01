@@ -1,6 +1,6 @@
 # Recovering shipment result processing
 
-**Status:** Affected orders reprocessed; recurrence investigation open  
+**Status:** Affected orders reprocessed; recurrence investigation open\
 **Contribution:** Order recovery, feed regeneration, and payment-record verification
 
 ## Business context

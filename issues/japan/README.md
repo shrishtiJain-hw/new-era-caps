@@ -1,3 +1,23 @@
 # Japan issues
 
+- [Billing contact information absent from broker output](billing-contact-feed-population.md) — Billing fields populated after store-setting change in UAT
+- [HOLD review status and inventory reservation behavior](hold-allocation-and-reservation.md) — Successful HOLD examples recorded; specification clarification needed
+- [NEC-10: COD fees absent from the OMS summary total](nec-10.md) — To Do
+- [NEC-11: Updated shipping phone does not reach OMS and broker feed](nec-11.md) — In Review
+- [NEC-12: Order contact retains an old customer email](nec-12.md) — In Review
+- [NEC-13: Post-import order discount edits do not synchronize](nec-13.md) — To Do
+- [NEC-14: Partial fulfillment updates fail to synchronize](nec-14.md) — In Review
+- [NEC-15: Customer reassociation duplicates broker detail rows](nec-15.md) — In Progress
+- [NEC-16: BI/BW feed uses SKU and omits shipping-charge rows](nec-16.md) — To Do
+- [NEC-17: Smaregi inventory reset rejects facility or location identifiers](nec-17.md) — In Progress
+- [NEC-2: Draft orders without a shipping address fail import](nec-2.md) — In Review
+- [NEC-3: Payment authorization status missing after real-time import](nec-3.md) — In Review
+- [NEC-4: Delivery preferences prevent order import](nec-4.md) — In Review
+- [NEC-5: Cancellation restores ATP when restocking was disabled](nec-5.md) — In Review
+- [NEC-6: Reshipping selection missed rejected-item parking](nec-6.md) — In Review in historical mail
+- [NEC-7: Partial cancellation creates a duplicate reject record](nec-7.md) — In Review in historical mail
+- [NEC-8: Empty brokered files generated beside valid output](nec-8.md) — To Do
+- [Payment and cancellation retests show mixed outcomes](payment-state-regression.md) — Open regression observations in payment retest tab
+- [Post-import edits reveal incomplete synchronization](post-import-line-and-customer-updates.md) — Mixed results recorded; additional defects remain open
 - [Recovering shipment result processing](shipment-results-recovery.md) — Affected orders reprocessed; recurrence investigation open
+- [Imported orders bypassed the intended brokering queue](unexpected-immediate-allocation.md) — Recorded Done in workbook issue tracker

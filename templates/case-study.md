@@ -1,26 +1,34 @@
 # Case title
 
-**Status:** Requirement received / In progress / Partially delivered / Recovered / Resolved  
-**Contribution:** Your actual role  
-**Country:** Japan  
-**Brand scope:** NEC
+**Country:** Confirmed market\
+**Brands:** Confirmed codes or explicitly unconfirmed\
+**Status:** Requirement / Open investigation / Recovered / Resolved / Partially delivered\
+**Contribution:** Personal work and team ownership
 
-## Business context
+## Issue and business impact
 
-Describe the requirement or observed problem and why it mattered.
+Describe the actual symptom and operational consequence.
 
-## Approach and contribution
+## Expected behavior and requirement
 
-Explain your analysis, decisions, implementation, or coordination. Credit teammates separately.
+State the agreed behavior and the interface where it applies.
+
+## RCA and evidence
+
+Separate confirmed findings from hypotheses and unanswered questions.
+
+## Documented actions
+
+Record actual actions, their owners, and supporting evidence. Keep proposals separate.
 
 ## Outcome and remaining work
 
-State what changed, what was confirmed, and which questions remain open.
+Distinguish immediate recovery, recurring prevention, and customer acceptance.
 
-## Validation and next checks
+## Recommended validation and prevention
 
-Separate executed checks and their results from proposed follow-up checks.
+Label each check as executed or proposed. Record actual results when available.
 
 ## Evidence basis
 
-Record a sanitized source description and date. Keep private links and identifiers outside this repository.
+Use a sanitized thread/chat title and date. Keep private records outside Git.

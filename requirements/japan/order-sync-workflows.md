@@ -1,6 +1,6 @@
 # Order synchronization and fulfillment workflow knowledge
 
-**Status:** Documented learning and QA contribution  
+**Status:** Documented learning and QA contribution\
 **Contribution:** Workflow analysis and knowledge development
 
 ## Business context
